@@ -1,0 +1,12 @@
+transformers
+torch
+datasets
+accelerate
+bitsandbytes
+sentencepiece
+evaluate
+huggingface_hub
+jupyterlab
+numpy
+pandas
+peft
