@@ -1,12 +1,9 @@
-transformers
 torch
+transformers
 datasets
 accelerate
+peft
 bitsandbytes
 sentencepiece
 evaluate
 huggingface_hub
-jupyter
-numpy
-pandas
-peft
