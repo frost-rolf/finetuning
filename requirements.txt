@@ -6,7 +6,7 @@ bitsandbytes
 sentencepiece
 evaluate
 huggingface_hub
-jupyterlab
+jupyter
 numpy
 pandas
 peft
